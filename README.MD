@@ -55,4 +55,4 @@ Your application must meet the following design specifications:
 * Commit your screenshot and code.
 * Push your local git history to GitHub.
 * Submit your repository HTTPS link to the Assignment 4 D2L dropbox.
-* Tip: If you want to learn more about a specific aspect of a Python object or the functionality of Pandas, remember to take a look at the official documentation!
+* Tip: If you want to learn more about a specific aspect of a Python object or the functionality of Pandas, remember to take a look at the official documentation!!
