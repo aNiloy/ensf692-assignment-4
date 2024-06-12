@@ -130,7 +130,7 @@ def main():
     # Filter months that have the maximum count
     popular_months = month_counts[month_counts == max_count].index.tolist()
     # Print the popular months
-    print(f"Most popular month(s) for {dog_input} dogs: {' '.join(popular_months)}")
+    print(f"Most popular month(s) for {dog_input} dogs: {' '.join(sorted(popular_months))}")
 
 
 if __name__ == '__main__':
